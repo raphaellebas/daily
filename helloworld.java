@@ -1,7 +1,7 @@
 public class helloworld {
 
 	public static void main(String[] args) {
-		// Va imprimé "Hello World" dans le Terminal -- Print "Hello World" to the Terminal
-		System.out.println("Hello World");
+		// Va imprimé "Bonjour tout le monde dans le terminal" -- Print "Bonjour tout le monde to the terminal"
+		System.out.println("Bonjour tout le monde")
 	}
 }
